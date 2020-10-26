@@ -1,0 +1,9 @@
+12;Viena
+10;Francia
+20;Republica Checa
+456;Alemania
+10;Polonia
+15;Espana
+37;Rusia
+21;Holanda
+77;Dinamarca
